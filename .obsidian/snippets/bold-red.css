@@ -1,0 +1,4 @@
+/* 只应用于阅读模式 */
+.markdown-preview-view strong {
+  color: #ff9999;
+}

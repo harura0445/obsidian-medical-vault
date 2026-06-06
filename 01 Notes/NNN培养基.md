@@ -1,0 +1,2 @@
+- “**NNN 培养基**” 是一种**血液原虫**的特殊培养基，全称是 **Novy–MacNeal–Nicolle 培养基**。
+- 培养 **血液原虫**（尤其是**锥虫 Trypanosoma**、**利什曼原虫 Leishmania**）

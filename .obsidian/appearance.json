@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "bold-red"
+  ],
+  "baseFontSize": 17,
+  "showRibbon": true,
+  "nativeMenus": false
+}
